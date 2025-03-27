@@ -7,7 +7,7 @@ FireMovies is a comprehensive movie information and management backend API that 
 🌐 Base URL: https://firemovies-backend.onrender.com/
 
 ## Project Structure
-
+```
 movie-api-backend/
 │
 ├── config/
@@ -31,7 +31,7 @@ movie-api-backend/
 ├── package.json             # Project metadata and dependencies
 ├── package-lock.json        # Exact dependency versions
 └── server.js                # Main server entry point
-
+```
 
 ## Prerequisites
 - Node.js (v14+ recommended)
